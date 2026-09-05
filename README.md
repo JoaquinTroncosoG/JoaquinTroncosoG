@@ -164,12 +164,17 @@ Enfoque:   Desarrollo Full Stack, Automatización de Procesos & Pipelines ETL
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/JoaquinTroncosoG">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaquinTroncosoG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=es&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/JoaquinTroncosoG">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaquinTroncosoG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es&cache_seconds=86400" />
-  </a>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaquinTroncosoG&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaquinTroncosoG&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaquinTroncosoG&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaquinTroncosoG&theme=tokyonight&utcOffset=-4" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaquinTroncosoG&theme=tokyonight" />
 </div>
 
 <div align="center">
