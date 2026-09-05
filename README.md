@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=Hola+%F0%9F%91%8B+Soy+Joaqu%C3%ADn+Troncoso;Estudiante+de+Ing.+Inform%C3%A1tica+%40+UTEM;Desarrollador+Full+Stack+%7C+Automatizaci%C3%B3n+%26+ETL" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=Hola+%F0%9F%91%8B+Soy+Joaqu%C3%ADn+Troncoso;Estudiante+de+Ing.+Inform%C3%A1tica+%40+UTEM" /></a>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaqu%C3%ADn-troncoso-guzman-b147493b5/)
