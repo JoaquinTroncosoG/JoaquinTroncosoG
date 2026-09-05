@@ -164,8 +164,12 @@ Enfoque:   Desarrollo Full Stack, Automatización de Procesos & Pipelines ETL
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaquinTroncosoG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=es" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinTroncosoG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es" />
+  <a href="https://github.com/JoaquinTroncosoG">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaquinTroncosoG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=es&cache_seconds=86400" />
+  </a>
+  <a href="https://github.com/JoaquinTroncosoG">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaquinTroncosoG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es&cache_seconds=86400" />
+  </a>
 </div>
 
 <div align="center">
@@ -193,4 +197,3 @@ Enfoque:   Desarrollo Full Stack, Automatización de Procesos & Pipelines ETL
 <div align="center">
   <i>💬 ¡No dudes en contactarme para colaborar o simplemente conversar sobre tecnología!</i>
 </div>
-
